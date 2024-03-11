@@ -112,7 +112,6 @@ $(document).ready(function(){
             employeeSelect.append('<option>Tsabita Faiz Ihsani</option>');
             employeeSelect.append('<option>Umahatul Kibriya, S.Pd</option>');
             employeeSelect.append('<option>Umi Robbayani, S.Pd</option>');
-            employeeSelect.append('<option>Wahyu Dwi Fatimah,S.Pd.</option>');
             employeeSelect.append('<option>Yasmina Bilqis Muharromah</option>');
             employeeSelect.append('<option>Yuli Hari Murti, S.Pd.</option>');
             employeeSelect.append('<option>I Gusti Viana Anggita Zunaini, S.Pd</option>');
