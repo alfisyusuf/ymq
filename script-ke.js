@@ -115,6 +115,9 @@ $(document).ready(function(){
             employeeSelect.append('<option>Wahyu Dwi Fatimah,S.Pd.</option>');
             employeeSelect.append('<option>Yasmina Bilqis Muharromah</option>');
             employeeSelect.append('<option>Yuli Hari Murti, S.Pd.</option>');
+            employeeSelect.append('<option>I Gusti Viana Anggita Zunaini, S.Pd</option>');
+            employeeSelect.append('<option>Muhammad Furqon Al-Fariqi, S.Pd</option>');
+            employeeSelect.append('<option>Dwi Safitri, S.Pd</option>');
         break;
         case 'SDII Karanganyar':
             employeeSelect.append('<option>Ammetyas Kunthi Rachmadhini, S.Pd</option>');
