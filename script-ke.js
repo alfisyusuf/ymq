@@ -677,7 +677,7 @@ function changeInputType() {
 function validateAttendanceCode() {
     var attendanceCode = $('#attendanceCodeInput').val();
     // Your validation logic here
-    if (attendanceCode !== 'bersama') {
+    if (attendanceCode !== 'quran') {
         $('#attendanceCodeError').text('Kode hadir tidak valid.');
         return false; // Prevent form submission
     }
