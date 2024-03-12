@@ -666,6 +666,7 @@ $(document).ready(function(){
             employeeSelect.append('<option>Susmono</option>');
             employeeSelect.append('<option>Syamsiyati</option>');
             employeeSelect.append('<option>Triyadi, SPd.</option>');
+            employeeSelect.append('<option>Muhammad Yusuf Fajri</option>');
         break;
         case 'PPTQ':
             employeeSelect.append('<option>Ust Ihsan</option>');
