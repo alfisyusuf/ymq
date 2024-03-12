@@ -39,6 +39,13 @@ $(document).ready(function(){
             employeeSelect.append('<option>Tursila</option>');
             employeeSelect.append('<option>Zahrotul Khasanah</option>');
             employeeSelect.append('<option>Ziat Rahman Hakim</option>');
+            employeeSelect.append('<option>Firda Azaria</option>');
+            employeeSelect.append('<option>Luthfia Shifaul Amanah Burhani </option>');
+            employeeSelect.append('<option>Aidah </option>');
+            employeeSelect.append('<option>Ammar Zain Marzuqi</option>');
+            employeeSelect.append('<option>Balqis Sakhaa Ilafi</option>');
+            employeeSelect.append('<option>Melinda Retno Diningrum</option>');
+            employeeSelect.append('<option>Itsna Rachmawati Dewi</option>');
         break;
         case 'SDICT Surakarta':
             employeeSelect.append('<option>Alfi Mubayyinah, S.Pd</option>');
@@ -78,6 +85,8 @@ $(document).ready(function(){
             employeeSelect.append('<option>Sutarno</option>');
             employeeSelect.append('<option>Taufiq Ma`ruf</option>');
             employeeSelect.append('<option>Tri Wijayanti,S.Pd.M.Pd.</option>');
+            employeeSelect.append('<option>Qhoirul Annisa Firdaus, S.Si</option>');
+            employeeSelect.append('<option>Megarani Desianingtyas, S.Si</option>');
         break;
         case 'SDII Boyolali':
             employeeSelect.append('<option>Agustin Fatikasari</option>');
@@ -112,6 +121,7 @@ $(document).ready(function(){
             employeeSelect.append('<option>Tsabita Faiz Ihsani</option>');
             employeeSelect.append('<option>Umahatul Kibriya, S.Pd</option>');
             employeeSelect.append('<option>Umi Robbayani, S.Pd</option>');
+            employeeSelect.append('<option>Wahyu Dwi Fatimah,S.Pd.</option>');
             employeeSelect.append('<option>Yasmina Bilqis Muharromah</option>');
             employeeSelect.append('<option>Yuli Hari Murti, S.Pd.</option>');
             employeeSelect.append('<option>I Gusti Viana Anggita Zunaini, S.Pd</option>');
@@ -133,6 +143,8 @@ $(document).ready(function(){
             employeeSelect.append('<option>Ekawati Yunitasari Putri A.Md.</option>');
             employeeSelect.append('<option>Vela Maria Ulvah,S.Pd.</option>');
             employeeSelect.append('<option>Wiharastro Anan Pudyantoro,S.T, S.Pd.</option>');
+            employeeSelect.append('<option>Lulu Fikti Anisah, S.T</option>');
+            employeeSelect.append('<option>Fatimah Az Zhara, S.Si</option>');
         break;
         case 'SDII Sragen':
             employeeSelect.append('<option>Anton Munadi, S.Pd.</option>');
@@ -148,6 +160,10 @@ $(document).ready(function(){
             employeeSelect.append('<option>Sunarto, S.T, S.Pd.</option>');
             employeeSelect.append('<option>Umi Nur Khasanah, M.Pd.I</option>');
             employeeSelect.append('<option>Wahyu Adhi Nugroho,M.Pd.</option>');
+            employeeSelect.append('<option>Galih Satria</option>');
+            employeeSelect.append('<option>Shedy Amalia Rozzaqi </option>');
+            employeeSelect.append('<option>Ellya Saljadziba, S.Pd.</option>');
+            employeeSelect.append('<option>Itsla Kamila Nasikh</option>');
         break;
         case 'SDII Sukoharjo':
             employeeSelect.append('<option>Abdullah Akram</option>');
@@ -162,6 +178,9 @@ $(document).ready(function(){
             employeeSelect.append('<option>Putri Apriliana</option>');
             employeeSelect.append('<option>Weni Aprilia Pradani, S.Pd</option>');
             employeeSelect.append('<option>Yuli Purwantiningsih</option>');
+            employeeSelect.append('<option>Valensa Ihsa Mahendra</option>');
+            employeeSelect.append('<option>Islamiah Pratiwi Ayu Larasati, S.Pd</option>');
+            employeeSelect.append('<option>Arini Diana Sari</option>');
         break;
         case 'SDII Surakarta':
             employeeSelect.append('<option>Ade Rachmad Said</option>');
@@ -220,6 +239,7 @@ $(document).ready(function(){
             employeeSelect.append('<option>Yuni Siswanti, S.Pd</option>');
             employeeSelect.append('<option>Zaini Muharom, S. S., S.Pd.</option>');
             employeeSelect.append('<option>Zeni Vera Wati, S.Pd</option>');
+            employeeSelect.append('<option>Mufti Khoirunnisa&apos;, S.Pd</option>');
         break;
         case 'SDII Yogyakarta':
             employeeSelect.append('<option>Ajeng Aprilia Husaeni, S.Pd</option>');
@@ -275,6 +295,12 @@ $(document).ready(function(){
             employeeSelect.append('<option>Wahyu Catur Rini</option>');
             employeeSelect.append('<option>Warti, S. Si.</option>');
             employeeSelect.append('<option>Zhahrul Makhfud, S.Pd</option>');
+            employeeSelect.append('<option>Dina Arifatul Khusna</option>');
+            employeeSelect.append('<option>Maia Ameilyana Zapin </option>');
+            employeeSelect.append('<option>Ummu Izzatul Uswatun khalisah </option>');
+            employeeSelect.append('<option>Ari Rahmawati </option>');
+            employeeSelect.append('<option>Ahmad Fahmi Alfian</option>');
+            employeeSelect.append('<option>Dekat Selfiana</option>');
         break;
         case 'SMA ABBS':
             employeeSelect.append('<option>Abd Azis, S.Pd.I.</option>');
@@ -352,6 +378,8 @@ $(document).ready(function(){
             employeeSelect.append('<option>Yunita Sari, A.Md</option>');
             employeeSelect.append('<option>Zahrotun Hanifah, M.Pd</option>');
             employeeSelect.append('<option>Zuly Irawan, S.Kom.</option>');
+            employeeSelect.append('<option>Jonanda Fattah Anugerah, S.Pd. </option>');
+            employeeSelect.append('<option>Rikha Putri Devianti</option>');
         break;
         case 'SMP ABBS':
             employeeSelect.append('<option>Alla&apos; Junia Nurdin, S.Pd</option>');
@@ -370,6 +398,8 @@ $(document).ready(function(){
             employeeSelect.append('<option>Sinta Fitriana, S. Pd</option>');
             employeeSelect.append('<option>Siti Asiyah Wardatul Jannah, S.Pd</option>');
             employeeSelect.append('<option>Siti Khoimah, S. Pd.</option>');
+            employeeSelect.append('<option>Arvino Nurvieri Kusuma</option>');
+            employeeSelect.append('<option>Scundy Nourma Pratiwi, M.Pd.</option>');
         break;
         case 'SMPII Boyolali':
             employeeSelect.append('<option>Ami Nitami, S.Pd</option>');
@@ -387,6 +417,10 @@ $(document).ready(function(){
             employeeSelect.append('<option>Rina Irawati, S.Pd</option>');
             employeeSelect.append('<option>Ulfiatu Nur Azizah</option>');
             employeeSelect.append('<option>Zeni Prasetyo</option>');
+            employeeSelect.append('<option>Mutiara Nurani Suci</option>');
+            employeeSelect.append('<option>Tungga Pramudya Utama</option>');
+            employeeSelect.append('<option>Tia Izzah Fathiya</option>');
+            employeeSelect.append('<option>Dani Dwi Susanti </option>');
         break;
         case 'SMPII Karanganyar':
             employeeSelect.append('<option>Arif Hidayat, S. Pd</option>');
@@ -403,6 +437,7 @@ $(document).ready(function(){
         case 'SMPII Klaten':
             employeeSelect.append('<option>Ana Susanti, S. Pd</option>');
             employeeSelect.append('<option>Retno Wiyanti, S.Pd</option>');
+            employeeSelect.append('<option>Muhammad Fachrudin Alwi, S.S</option>');
         break;
         case 'SMPII Sukoharjo':
             employeeSelect.append('<option>alqaan maqbullah ilmi, S.Pd., M.Pd., M.Si.</option>');
@@ -417,6 +452,7 @@ $(document).ready(function(){
             employeeSelect.append('<option>Putri Nurika Anggraini, M.Pd</option>');
             employeeSelect.append('<option>Shalindri Saraswati, S.Pd</option>');
             employeeSelect.append('<option>Yuzka Faiz Ad dzakie</option>');
+            employeeSelect.append('<option>Luthfiyah Miftahur Ramdhani </option>');
         break;
         case 'SMPII Surakarta':
             employeeSelect.append('<option>Adi Cahyo Nugroho</option>');
@@ -478,10 +514,13 @@ $(document).ready(function(){
             employeeSelect.append('<option>Yudi Prasetiyo, S.Kom.</option>');
             employeeSelect.append('<option>Yustien Pramita Hapsari, S.Pd</option>');
             employeeSelect.append('<option>Zaenal Baharudin, A.Md</option>');
+            employeeSelect.append('<option>Muh Bisri Mustofa </option>');
         break;
         case 'SMPII Yogyakarta':
             employeeSelect.append('<option>Mefta Rizki Qurrat &apos;Aini, S.Pd</option>');
             employeeSelect.append('<option>Muhammad Nadir</option>');
+            employeeSelect.append('<option>Malisa Alifatul Izza Hapsari</option>');
+            employeeSelect.append('<option>Nurul Khafidoh, S.S.</option>');
         break;
         case 'SSU':
             employeeSelect.append('<option>Aji Wibowo</option>');
@@ -515,6 +554,7 @@ $(document).ready(function(){
             employeeSelect.append('<option>Win Yunidar Setyawati, S.Pd</option>');
             employeeSelect.append('<option>Winda Wahyu Dianty, S.Pd, M.Pd</option>');
             employeeSelect.append('<option>Yuliana Sari, S.Pd</option>');
+            employeeSelect.append('<option>Risma Khoirun Nisak, S. Pd</option>');
         break;
         case 'TKII Karanganyar':
             employeeSelect.append('<option>Amany Hidayah, S.Pd</option>');
@@ -526,11 +566,13 @@ $(document).ready(function(){
             employeeSelect.append('<option>Tri Handayani, S.Pd</option>');
             employeeSelect.append('<option>Widya Ratnaningsih</option>');
             employeeSelect.append('<option>Wiwit Nur Aini, S.Pd</option>');
+            employeeSelect.append('<option>Amaliya nur Azizah,S.Pd</option>');
         break;
         case 'TKII Klaten':
             employeeSelect.append('<option>Dewi Fathona Rahmawati</option>');
             employeeSelect.append('<option>Muhammad Alfitra, S.Pd</option>');
             employeeSelect.append('<option>Umi Sholichah, S.Pd</option>');
+            employeeSelect.append('<option>Anisa Oktafia Fitriani, S.Pd.</option>');
         break;
         case 'TKII Sukoharjo':
             employeeSelect.append('<option>Ahma Nur Aisyah, S.Pd</option>');
@@ -575,10 +617,14 @@ $(document).ready(function(){
             employeeSelect.append('<option>Vylla Nurika Sari,S.Pd.</option>');
             employeeSelect.append('<option>Yuni Irawati, S.E.</option>');
             employeeSelect.append('<option>Yunita Miftakhunisa, S.Pd</option>');
+            employeeSelect.append('<option>Sabiqoh Dwi Wahyuni</option>');
+            employeeSelect.append('<option>Fauziah shoimah S.Pd</option>');
+            employeeSelect.append('<option>Imawati</option>');
         break;
         case 'TKII Yogyakarta':
             employeeSelect.append('<option>Alyarahma Nur Aisya, S. T. P.</option>');
             employeeSelect.append('<option>Fidiana Nurhantari,S.Psi.</option>');
+            employeeSelect.append('<option>Amrina Rosyada </option>');
         break;
         case 'TKQP Surakarta':
             employeeSelect.append('<option>Ardistha Yuliana Purbasari, S.Pd</option>');
@@ -594,6 +640,7 @@ $(document).ready(function(){
             employeeSelect.append('<option>Rizky Faujiah, S.Kom</option>');
             employeeSelect.append('<option>Stefi Aulia Putri, S.Pd</option>');
             employeeSelect.append('<option>Tuwiyem, S. Pd</option>');
+            employeeSelect.append('<option>Lina Dani Lestari, S.Pd</option>');
         break;
         case 'Yayasan':
             employeeSelect.append('<option>Ahmad Sulaeman, M.Pd</option>');
